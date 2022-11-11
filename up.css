@@ -102,7 +102,7 @@ body {
 
 .overlay {
     background-color: var(--lightblue);
-    background: url("C:/Users/Daniel1/Desktop/73910a153934989.6338e75569368.jpg");
+    background: url("https://images.unsplash.com/photo-1664739553310-6c3b78cc6ed7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
